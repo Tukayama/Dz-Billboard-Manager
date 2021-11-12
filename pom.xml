@@ -55,7 +55,8 @@
                         <goals>
                             <goal>report</goal>
                         </goals>
-                    </execution><execution>
+                    </execution>
+                    <execution>
                     <id>check</id>
                     <goals>
                         <goal>check</goal>
